@@ -1,0 +1,24 @@
+# OCaml build files
+*.cmi
+*.cmo
+*.cmx
+*.cma
+*.cmxa
+*.o
+
+# Compiled binary
+project
+
+# Temporary / generated files
+*.annot
+*.swp
+*~
+*.exe
+*.out
+*.log
+
+# macOS system files
+.DS_Store
+
+# Backup files
+*.bak
